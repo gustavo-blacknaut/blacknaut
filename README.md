@@ -4,16 +4,12 @@
   Focado em backend moderno, infraestrutura e soluções escaláveis.
 </p>
 
----
-
 ## 🚀 Sobre mim
 
 - 🧰 Stack: TypeScript • JavaScript • Node.js • Docker • MySQL • Redis • MongoDB • Socket.io
 - 🤖 Especialista em bots para Discord, APIs REST, automações e microserviços
 - 📦 Entusiasta de servidores dedicados, containers e sistemas de deploy
 - 🧠 Sempre aprendendo, sempre otimizando
-
----
 
 ## 🧠 Principais Tecnologias
 
@@ -27,8 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -36,14 +30,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-blacknaut&hide=html&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
-
 ## 📬 Contato
 
 - ✉️ Email: [gustavo@grupocits.com.br](mailto:gustavo@grupocits.com.br)  
 - 🌐 Site/Portfólio: [greencodes.com.br](https://greencodes.com.br)  
 - 💬 Discord: [https://discord.gg/bnNRgFEPDV](https://discord.gg/bnNRgFEPDV)
-
----
 
 <p align="center">Feito com 💻 por <strong>Gustavo Corrêa Raichardt</strong></p>
