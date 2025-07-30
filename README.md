@@ -1,40 +1,49 @@
-<h1 align="center">👨‍💻 Gustavo Correa | @gustavo-blacknaut</h1>
+<h1 align="center">Gustavo Raichardt | @gustavo-blacknaut</h1>
 <p align="center">
-  Desenvolvedor full-stack focado em soluções modernas e escaláveis. Amante de código limpo, automações e servidores.
+  Desenvolvedor full-stack apaixonado por bots, servidores e automações.<br />
+  Focado em backend moderno, infraestrutura e soluções escaláveis.
 </p>
+
+---
 
 ## 🚀 Sobre mim
 
-- 🎯 Foco atual: Backend, Bots e DevOps
-- 💡 Stack preferida: Node.js • TypeScript • MySQL • Docker • Linux
-- 🔧 Trabalhos com integração de APIs, automações e sistemas de backend robustos
-- 📡 Interesse em redes, infraestrutura e segurança
-- 🧠 Sempre aprendendo algo novo
+- 🧰 Stack: TypeScript • JavaScript • Node.js • Docker • MySQL • Redis • MongoDB • Socket.io
+- 🤖 Especialista em bots para Discord, APIs REST, automações e microserviços
+- 📦 Entusiasta de servidores dedicados, containers e sistemas de deploy
+- 🧠 Sempre aprendendo, sempre otimizando
 
-## 🛠️ Tecnologias & Ferramentas
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+## 🧠 Principais Tecnologias
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
-## 📈 Estatísticas
+---
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-blacknaut&hide=html&layout=compact&theme=buefy" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=gustavo-blacknaut&show_icons=true&theme=buefy" />
-
-## 📫 Contato
-
-- ✉️ Email: gustavo@grupocits.com.br
-- 🌐 Site/Portfólio https://greencodes.com.br
-- 💬 Discord: `blacknaut`
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  Feito com ❤️ por Gustavo Correa
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-blacknaut&show_icons=true&theme=dark&hide_title=false&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-blacknaut&hide=html&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+---
+
+## 📬 Contato
+
+- ✉️ Email: [gustavo@grupocits.com.br](mailto:gustavo@grupocits.com.br)  
+- 🌐 Site/Portfólio: [greencodes.com.br](https://greencodes.com.br)  
+- 💬 Discord: [https://discord.gg/bnNRgFEPDV](https://discord.gg/bnNRgFEPDV)
+
+---
+
+<p align="center">Feito com 💻 por <strong>Gustavo Corrêa Raichardt</strong></p>
